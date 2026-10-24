@@ -22,6 +22,7 @@ Yanıtları Türkçe ver; kod, değişken adları ve commit mesajları İngilizc
 - Glassmorphism, yumuşak gölgeler, gradient vurgular ölçülü kullanılır; okunabilirlik önce gelir.
 - Her etkileşimde geri bildirim: hover, press, loading skeleton, başarı animasyonu.
 - `prefers-reduced-motion` desteklenmeli.
+- Tema ve efekt seçimi için `epic-effects` skill'ini kullan (tema kataloğu + hazır efekt tarifleri).
 - Mobil genişlikte (375px) yatay kaydırma olmamalı.
 
 ## Çalışma şekli
